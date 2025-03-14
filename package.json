@@ -62,7 +62,7 @@
     "i18n-js": "^3.8.0",
     "lodash": "^4.17.21",
     "react": "18.2.0",
-    "react-native": "0.71.5",
+    "react-native": "0.72.17",
     "react-native-actions-sheet": "^0.8.10",
     "react-native-device-info": "^10.7.0",
     "react-native-easy-toast": "2.3.0",
